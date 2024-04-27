@@ -1,9 +1,18 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A abordagem de trabalho adotada pelo grupo para lidar com o problema se baseia principalmente na metodologia ágil, dando destaque ao framework Scrum. Isso envolve a realização de ciclos breves de desenvolvimento, conhecidos como sprints, nos quais as atividades são planejadas, executadas e revisadas de maneira iterativa e incremental. Dentro desse contexto, os membros da equipe assumem funções específicas, como Scrum Master, Product Owner e Time de Desenvolvimento, para assegurar uma gestão eficiente do projeto.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+### Desenvolvimento:
+
+No ambiente de trabalho, o time faz uso de ferramentas colaborativas online, como o GitHub para gerenciamento do código fonte. No GitHub, são criados repositórios para o projeto nos quais o código é tratador por meio de versões e as tarefas são coordenadas por meio de issues e projetos. Isso viabiliza uma colaboração eficaz entre os integrantes da equipe e garante transparência e rastreabilidade nas atividades realizadas.
+
+### Organização e comunicação:
+
+O time de desenvolvimento ainda utiliza outras ferramentas de comunicação e colaboração, como o Google Drive para compartilhamento de documentos e o Microsoft Planner para organização de tarefas e acompanhamento do progresso. Essas ferramentas auxiliam na coordenação das atividades, na troca de informações e no monitoramento do andamento do projeto. 
+
+A comunicação direta é realizada por meio de whatsapp e do uso da ferramenta Microsoft Teams para a condução de reuniões.
+ 
 
 ## Relação de Ambientes de Trabalho
 
@@ -45,30 +54,17 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+- Scrum Master: Luan Alcantara;
+- Product Owner: Luan Alcantara;
+- Equipe de Desenvolvimento: Luan Alcantara;
+- Equipe de Design: Luan Alcantara.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/b5440b34-6c0f-4cfd-9a4c-cdb9b2028065)
+
 
 ### Ferramentas
 
@@ -80,8 +76,3 @@ As ferramentas empregadas no projeto são:
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
