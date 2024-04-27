@@ -1,23 +1,20 @@
-# TÍTULO DO PROJETO
+# RECRUTADEV
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`1º semestre de 2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Recrutadev é um aplicativo móvel projetado para simplificar o processo de recrutamento e seleção de desenvolvedores. Com uma interface intuitiva e funcionalidades inteligentes, o Recrutadev permite que empresas publiquem vagas,e tornem seus processos de contratação de forma eficiente. Além disso, os desenvolvedores em busca de oportunidades podem criar perfis detalhados, receber recomendações de vagas compatíveis e acompanhar o status de suas candidaturas, tudo em um único lugar. Com o Recrutadev, tornamos o processo de recrutamento mais ágil, transparente e centrado nas habilidades dos candidatos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* LUAN DE ALCANTARA ALVES
 
 ## Orientador
 
-* Nome completo do professor 1
+* WESLEY DIAS MACIEL
 
 ## Instruções de utilização
 
