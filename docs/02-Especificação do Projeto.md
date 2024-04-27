@@ -1,54 +1,57 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+Diante do problema levantado a certa do processo de recrutamento e seleção de desenvolvedores que é marcado por diversos desafios por ambas as partes, a solução de aplicação visa estreitar os caminhos para que desenvolvedores e profissionais de tecnologia encontrem projetos que necessitam de suas técnicas e habilidades.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+A etapa de especificação do projeto apresenta uma análise detalhada do problema identificado e propõe uma solução centrada nas necessidades e expectativas dos usuários, abordará a definição do diagrama de personas.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Além disso, serão detalhadas as histórias de usuários, que descrevem cenários específicos de interação com a aplicação, e os requisitos funcionais e não funcionais, que especificam as funcionalidades e características que o Recrutadev deve possuir.
+
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Ter claramente as personas devidamente identificadas torna possível entender suas necessidades e adaptar a aplicação de forma a garantir que as situações colocadas pelas pessoas envolvidas sejam devidamente atendidas. Para isso, é crucial entender o contexto em que os usuários estarão inseridos ao utilizar o Recrutadev.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Com base nesse contexto, as personas serão desenvolvidas considerando aspectos como idade, profissão, formação acadêmica, área de atuação, perfil, necessidades e se estão contratando ou buscando oportunidades de emprego
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| Foto | Nome              | Idade | Profissão          | Graduação         | Área de Atuação | Perfil       | Necessidade                                        | Contratando ou Buscando Oportunidade? | Como a Aplicação Pode Impactar as Necessidades?                                             |
+|------|-------------------|-------|---------------------|-------------------|------------------|--------------|---------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------|
+| [Foto] | Caroline Paola    | 28    | Desenvolvedora      | Ciência da        | Desenvolvimento | Sênior       | Encontrar oportunidades de trabalho relevantes   | Buscando Oportunidade                | A aplicação pode recomendar vagas compatíveis com suas habilidades e experiência.           |
+| [Foto] | Marcelo Pires     | 35    | Gerente de TI       | Engenharia de     | Tecnologia      | Líder        | Agilizar o processo de recrutamento              | Contratando                          | Pode facilitar a triagem de currículos e agendar entrevistas de forma mais eficiente.     |
+| [Foto] | Larissa Machado   | 24    | Estudante           | Sistemas de       | Desenvolvimento | Júnior       | Conseguir sua primeira oportunidade profissional | Buscando Oportunidade                | Oferecer vagas de estágio ou trainee e fornecer orientações sobre o processo de candidatura. |
+| [Foto] | Durval de Lima    | 40    | CEO                 | Administração     | Empresarial     | Líder        | Identificar talentos para expandir a equipe      | Contratando                          | A aplicação pode fornecer insights sobre as habilidades e experiências dos candidatos.     |
+| [Foto] | Bruna Reis        | 32    | Analista de         | Análise de        | Desenvolvimento | Intermediário| Encontrar oportunidades de crescimento profissional | Buscando Oportunidade            | Pode sugerir cursos de aprimoramento e conectar com empresas que oferecem oportunidades de crescimento. |
+| [Foto] | Edson alves dos reis | 27 | Desenvolvedor       | Engenharia de     | Software        | Júnior       | Aprimorar suas habilidades técnicas             | Buscando Oportunidade                | Oferecer recursos de aprendizado e recomendar vagas que correspondam ao seu nível de experiência. |
+| [Foto] | Maria de Fátima   | 45    | Recrutadora         | Recursos          | Humanos         | Líder        | Simplificar o processo de triagem de currículos  | Contratando                          | Pode automatizar a triagem inicial de currículos, economizando tempo e recursos.          |
+
+
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+| EU COMO...                        | QUERO/PRECISO...                                                    | PARA...                                                                                   |
+|----------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Caroline, desenvolvedora júnior  | Encontrar vagas para projetos ou trabalhos dentro da sua area de atuação                   | Não perder oportunidades de carreira importantes                                            |
+| Maria de Fátima, recrutadora     | encontrar profissionais de forma facil e otimizada que estejam de acordo com as necessidades das vagas                | Facilitar a avaliação de candidatos e agilizar o processo de contratação                    |
+| Durval, CEO                      | Acessar relatórios detalhados sobre o desempenho do processo de recrutamento | Identificar áreas de melhoria e tomar decisões estratégicas embasadas na contratação de talentos |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, com um mercado tão competitivo em diversos ramos, a celeridade nos processos tem se tornado até mesmo um diferencial competitivo. Como as soluções de desenvolvimento se fazem presente em todos os ramos de atividade, enfrentam necessidades pontuais de cada mercado. Contudo, poder contar com uma otimização no processo de levantamento de equipe para um projeto ou para a contratação para uma empresa torna-se cada vez mais crucial.
+
+As empresas geralmente dependem de métodos manuais e descentralizados para gerenciar o fluxo de candidaturas, desde a publicação de vagas até a seleção final dos candidatos. Isso pode resultar em atrasos na triagem de currículos, dificuldade em acompanhar o status das candidaturas e falta de transparência no processo
+
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta é de criar uma solução tecnologia com intuito de otimizar o processo de recrutamento e seleção de desenvolvedores. Recrutadev é uma aplicação móvel inovadora que visa simplificar e agilizar todas as etapas envolvidas. O Recrutadev oferecerá uma plataforma centralizada e intuitiva, permitindo que empresas publiquem vagas, realizem triagens automáticas de currículos e avaliem candidatos de forma eficiente. 
+
+Para os desenvolvedores em busca de oportunidades, a aplicação fornecerá recursos personalizados, como a criação de perfis detalhados, recomendações de vagas compatíveis e acompanhamento do status das candidaturas
+
 
 ### Processo 1 – NOME DO PROCESSO
 
@@ -64,12 +67,137 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Indicadores de desempenho desempenham um papel vital na avaliação do sucesso e na orientação das estratégias empresariais. Por meio de métricas quantificáveis e mensuráveis, as organizações podem monitorar e avaliar o desempenho de diversos aspectos do negócio. Esses indicadores fornecem insights valiosos sobre o progresso em direção aos objetivos estabelecidos, ajudando na identificação de áreas de melhoria e no direcionamento de recursos de forma mais eficiente.
 
-Usar o seguinte modelo: 
+Desta forma foram criados 7 indicadores para gestão do negócio:
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+Indicador 1: Vagas preenchidas
+Indicador 2: disponibilidade do sistema 24 horas por dia
+Indicador 3: Satisfação do candidato em relação ao processo
+Indicador 4: Satisfação dos recrutadores ao processo 
+Indicador 5: Compatibilidade dos candidatos com perfil para a vaga
+Indicador 6: Efetividade das contratações
+Indicador 7: Turnover pós contratação
+
+| Indicador                                               | Objetivo                                                | Descrição                                                                                                                | Cálculo                                                                               | Fonte de Dados                                                                       | Perspectiva                                                                             |
+|--------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Vagas Preenchidas                                      | Medir o número de vagas de emprego preenchidas         | Acompanha o total de vagas anunciadas na plataforma e quantas delas foram ocupadas por candidatos contratados.         | Número de vagas preenchidas / Total de vagas anunciadas * 100%                         | Dados internos do Recrutadev, registro de vagas anunciadas e status de contratação. | Empresarial e de Recursos Humanos, medindo a eficácia da plataforma na colocação de candidatos.                                                  |
+| Disponibilidade do Sistema 24 Horas por Dia            | Avaliar a disponibilidade e confiabilidade do sistema | Monitora o tempo de atividade do sistema, garantindo que esteja disponível 24 horas por dia, 7 dias por semana.         | Tempo de atividade do sistema / Total de horas no período de análise * 100%            | Registros de monitoramento de sistema, incluindo tempo de inatividade e manutenção.  | Técnica e de Usuário, garantindo uma experiência contínua e confiável para empresas e candidatos.                                                 |
+| Satisfação do Candidato em Relação ao Processo          | Avaliar o nível de satisfação dos candidatos          | Coleta feedback dos candidatos sobre a experiência geral, incluindo facilidade de uso, comunicação e transparência.    | Média das avaliações dos candidatos                                                  | Pesquisas de satisfação, feedback direto dos candidatos durante e após o processo.    | Usuário, garantindo uma experiência positiva e satisfatória para os candidatos.                                                                    |
+| Satisfação dos Recrutadores ao Processo                 | Avaliar o nível de satisfação dos recrutadores        | Coleta feedback dos recrutadores sobre a eficiência da plataforma, qualidade dos candidatos e suporte oferecido.       | Média das avaliações dos recrutadores                                                | Pesquisas de satisfação, feedback direto dos recrutadores durante e após o processo.  | Recrutador, garantindo uma experiência eficiente e satisfatória na identificação e seleção de candidatos qualificados.                            |
+| Compatibilidade dos Candidatos com o Perfil da Vaga    | Avaliar a compatibilidade dos candidatos               | Analisa se os candidatos apresentam as habilidades, experiências e qualificações necessárias para desempenhar as funções. | Número de candidatos compatíveis / Total de candidatos selecionados * 100%             | Dados de perfil dos candidatos e requisitos das vagas, coletados durante o processo. | Empresarial, garantindo que as empresas recebam candidatos qualificados e adequados às suas necessidades específicas.                            |
+| Efetividade das Contratações                           | Medir o sucesso das contratações realizadas           | Acompanha o desempenho e a retenção dos novos funcionários após um determinado período de tempo.                         | Número de funcionários retidos após o período de experiência / Total de funcionários contratados * 100% | Dados de desempenho e retenção dos funcionários, avaliações de desempenho e feedback dos gestores. | Empresarial, visando garantir que as contratações realizadas atendam às expectativas e necessidades da empresa a longo prazo.              |
+| Turnover Pós Contratação                               | Avaliar a taxa de rotatividade pós contratação        | Acompanha o número de funcionários que deixam a empresa dentro de um determinado período após a contratação.            | Número de funcionários que deixaram a empresa após o período de experiência / Total de funcionários contratados * 100% | Registros de saída de funcionários, entrevistas de desligamento e feedback dos gestores e colaboradores. | Empresarial e de Recursos Humanos, buscando identificar e resolver quaisquer problemas que possam contribuir para a alta rotatividade de funcionários. |
+
+### Metas e gráficos de projeções 
+
+### Indicador 1: Vagas preenchidas
+
+Este indicador mede a eficácia do processo de recrutamento em preencher as vagas disponíveis na organização. Ele reflete a capacidade do processo de atrair candidatos qualificados e selecionar aqueles que melhor se encaixam nas posições em aberto.
+
+Meta estipulada: A meta é preencher todas as vagas abertas dentro de um determinado período, com candidatos qualificados e compatíveis com os requisitos da posição. Objetivo: 95% de efetividade
+
+Como mensurar: Este indicador pode ser mensurado contando o número de vagas preenchidas e o número de processos encerrados,
+
+Periodicidade: A mensuração deve ser realizada mensalmente
+
+Este indicador fornece uma visão geral da eficácia do processo de recrutamento em atrair e selecionar os candidatos certos para preencher as vagas disponíveis na organização.
+
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/2f12cba5-ae28-4ce4-bfc2-0ce20713a830)
+
+ 
+
+### Indicador 2: Disponibilidade do sistema 24 horas por dia
+
+Este indicador avalia a disponibilidade do sistema de recrutamento durante todo o dia. Uma vez que muitos candidatos podem aplicar-se a qualquer momento, é essencial que o sistema esteja sempre disponível para receber inscrições e processar informações.
+
+Meta estipulada: A meta é garantir que o sistema de recrutamento esteja disponível 24 horas por dia, 7 dias por semana, com um tempo mínimo de inatividade planejada para manutenção e atualizações.
+
+Como mensurar: A disponibilidade do sistema pode ser monitorada usando ferramentas de monitoramento de tempo de atividade, que registram o tempo em que o sistema está operacional e o tempo de inatividade programado.
+
+Periodicidade: A mensuração deve ser realizada semanalmente
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/1984a21f-f57a-4cbf-9064-eac301f75f4b)
+
+ 
+
+### Indicador 3: Satisfação do candidato em relação ao processo
+
+Este indicador mede a satisfação geral dos candidatos com o processo de recrutamento, desde a aplicação até a oferta de emprego. Ele reflete a experiência geral do candidato e principalmente na percepção de um processo simplificado
+
+Meta estipulada: A meta é alcançar uma alta taxa de satisfação do candidato, com a maioria dos candidatos expressando satisfação com o processo de recrutamento e comunicação da empresa.
+
+Como mensurar: A satisfação do candidato pode ser mensurada por meio de pesquisas de feedback após cada etapa do processo de recrutamento, perguntando aos candidatos sobre sua experiência, pontos fortes e áreas de melhoria.
+
+Periodicidade: A mensuração deve ser realizada mensalmente
+
+Esses indicadores fornecem informações valiosas sobre a eficácia do sistema de recrutamento, a satisfação dos candidatos e a disponibilidade do sistema, permitindo que a empresa avalie e melhore continuamente seus processos de recrutamento e seleção.
+
+ ![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/95d6ff75-3ff3-4400-b0cd-656b699db39b)
+
+
+
+### Indicador 4: Satisfação dos recrutadores com o processo
+
+Este indicador avalia a satisfação dos recrutadores com o processo de recrutamento, incluindo aspectos como eficiência, qualidade dos candidatos e adequação do processo às necessidades da empresa. Dessa forma mensurar a percepção de um processo simplificado.
+
+Meta estipulada: A meta é garantir uma alta taxa de satisfação dos recrutadores, com a maioria expressando satisfação com o processo de recrutamento e seleção.
+
+Como mensurar: A satisfação dos recrutadores pode ser mensurada por meio de pesquisas de feedback periódicas, questionários ou entrevistas individuais, onde os recrutadores podem fornecer comentários sobre o processo e sugerir melhorias.
+
+Periodicidade: A mensuração deve ser realizada mensalmente
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/53701287-1998-4c35-a901-c3a0afbc6459)
+
+ 
+### Indicador 5: Compatibilidade dos candidatos com o perfil para a vaga
+
+Este indicador avalia o quão bem os candidatos selecionados se encaixam com o perfil da vaga em termos de habilidades, experiência e características pessoais.
+
+Meta estipulada: A meta é selecionar candidatos que sejam altamente compatíveis com o perfil da vaga, minimizando a lacuna entre as habilidades e experiências necessárias e as habilidades e experiências dos candidatos selecionados.
+
+Como mensurar: A compatibilidade dos candidatos pode ser avaliada por meio de análises comparativas entre os requisitos da vaga e as qualificações dos candidatos selecionados, além de feedbacks dos gestores de contratação e desempenho dos candidatos após a contratação.
+
+Periodicidade: A mensuração deve ser realizada mensalmente
+
+Esses indicadores são fundamentais para garantir um processo de recrutamento eficaz, que atenda tanto às necessidades dos candidatos quanto às da empresa, promovendo a satisfação de ambas as partes e contribuindo para o sucesso organizacional.
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/d04fe7e3-145d-434d-b37a-0f60133c45fc)
+
+ 
+### Indicador 6: Efetividade das contratações
+
+Este indicador avalia a eficácia das contratações feitas após o processo de recrutamento. Ele analisa o desempenho e a contribuição dos novos contratados para a organização.
+
+Meta estipulada: A meta é garantir que as contratações realizadas atendam às expectativas de desempenho e contribuam positivamente para os objetivos da empresa.
+
+Como mensurar: A satisfação dos recrutadores pode ser mensurada por meio de pesquisas de feedback periódicas, questionários ou entrevistas individuais, onde os recrutadores podem fornecer comentários sobre o processo e sugerir melhorias.
+
+Periodicidade: A mensuração deve ser realizada mensalmente
+
+ ![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/8a678ea2-4df2-4d77-a337-6af20bb6a193)
+
+
+### Indicador 7: Turnover pós-contratação
+
+Explicação: Este indicador mede a taxa de rotatividade de funcionários após a contratação. Ele indica o quão bem-sucedida foi a seleção e integração dos novos funcionários na organização.
+
+Meta estipulada: A meta é manter uma baixa taxa de turnover pós-contratação, minimizando o número de funcionários que deixam a empresa dentro de um período específico após serem contratados.
+
+Como mensurar: A satisfação dos recrutadores pode ser mensurada por meio de pesquisas de feedback periódicas, questionários ou entrevistas individuais, onde os recrutadores podem fornecer comentários sobre o processo e sugerir melhorias.
+
+Periodicidade: A mensuração deve ser realizada semestralmente
+
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/8dc6a4c4-02fe-4178-8fbc-d8c6af6a8def)
+
+
+ 
+
+
+Portanto, esses indicadores são cruciais para avaliar a eficácia do processo de recrutamento e seleção, bem como o impacto das contratações na organização a longo prazo. Ao acompanhar esses indicadores de forma consistente, as empresas podem identificar áreas de melhoria e implementar estratégias para otimizar seu processo de contratação e retenção de talentos.
+
 
 ## Requisitos
 
