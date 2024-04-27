@@ -218,32 +218,37 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID       | Descrição do Requisito                                              | Prioridade |
+|----------|---------------------------------------------------------------------|------------|
+| RF - 001 | Permitir que os candidatos se cadastrem na plataforma.              | Alta       |
+| RF - 002 | Possibilitar aos candidatos realizar buscas por vagas de emprego.   | Alta       |
+| RF - 003 | Permitir que os candidatos visualizem os detalhes das vagas de emprego. | Alta       |
+| RF - 004 | Oferecer aos candidatos a opção de candidatura a uma vaga.         | Alta       |
+| RF - 005 | Permitir que os candidatos visualizem o status de suas candidaturas. | Média      |
+| RF - 006 | Implementar um sistema de recomendação de vagas para os candidatos. | Média      |
+| RF - 007 | Permitir que o usuário candidato faça login na aplicação.          | Alta       |
+| RF - 008 | Permitir que os recrutadores se cadastrem na plataforma.           | Alta       |
+| RF - 009 | Possibilitar aos recrutadores a publicação de vagas de emprego.    | Alta       |
+| RF - 010 | Permitir que os recrutadores visualizem os currículos dos candidatos. | Alta       |
+| RF - 011 | Permitir edição no cadastro dos candidatos e atualizações.         | Alta       |
+| RF - 012 | Oferecer aos usuários a opção de edição das vagas cadastradas.     | Média      |
+| RF - 013 | Possibilitar aos usuários verificar os processos em andamento.      | Média      |
+| RF - 014 | Permitir que os recrutadores gerem relatórios de desempenho do processo seletivo. | Baixa      |
+| RF - 015 | Implementar um sistema de feedback para candidatos e recrutadores. | Baixa      |
+
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID        | Descrição do Requisito                                                                                   | Prioridade |
+|-----------|----------------------------------------------------------------------------------------------------------|------------|
+| RNF - 001 | Garantir a segurança dos dados dos usuários, utilizando criptografia e medidas de proteção contra ataques cibernéticos. | Alta       |
+| RNF - 002 | Garantir que a aplicação seja responsiva e de alto desempenho, mesmo em períodos de pico de uso.        | Alta       |
+| RNF - 003 | Assegurar que a interface seja intuitiva e de fácil navegação, proporcionando uma experiência agradável ao usuário. | Alta       |
+| RNF - 004 | Garantir que a aplicação esteja disponível 24 horas por dia, 7 dias por semana, com tempo de inatividade mínimo. | Alta       |
+| RNF - 005 | Garantir tempos de resposta rápidos para todas as interações da aplicação, minimizando a latência.       | Alta       |
+| RNF - 006 | Garantir que a aplicação seja compatível com uma variedade de dispositivos móveis.                      | Média      |
+| RNF - 007 | Desenvolver o código de forma modular e bem documentada, facilitando futuras atualizações e manutenções. | Média      |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -252,13 +257,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|02| A aplicação deve ser desenvolvida utilizando tecnologias específicas já aprovadas pela equipe de desenvolvimento.        |
+|0| A aplicação deve estar em conformidade com todas as leis regualmentadas vigentes        |
 
 ## Diagrama de Casos de Uso
 
