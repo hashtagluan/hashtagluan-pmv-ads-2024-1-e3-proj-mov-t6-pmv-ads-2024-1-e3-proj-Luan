@@ -53,17 +53,30 @@ A proposta é de criar uma solução tecnologia com intuito de otimizar o proces
 Para os desenvolvedores em busca de oportunidades, a aplicação fornecerá recursos personalizados, como a criação de perfis detalhados, recomendações de vagas compatíveis e acompanhamento do status das candidaturas
 
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – CANDIDATO - CADASTRO, BUSCA E CANDIDATURA
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Oportunidades de Melhoria:
 
-![Processo 1](img/02-bpmn-proc1.png)
+   - Melhorar a interface de cadastro para torná-la mais intuitiva e fácil de usar, reduzindo o tempo necessário para completar o registro.
+   - Implementar um sistema de recomendação de vagas mais preciso, que leve em consideração as habilidades e preferências dos candidatos.
+   - Adicionar filtros de busca avançados, como tipo de contrato e faixa salarial, para ajudar os candidatos a encontrar oportunidades mais relevantes.
+   - Oferecer um processo de candidatura simplificado e otimizado, com a possibilidade de salvar currículos e cartas de apresentação para uso futuro.
+   - Incorporar ferramentas de acompanhamento de candidaturas, permitindo que os candidatos visualizem o status de suas candidaturas 
 
-### Processo 2 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/c0fb3609-5621-455c-ad5e-d4e8bd580739)
 
-![Processo 2](img/02-bpmn-proc2.png)
+
+
+### Processo 2 – RECRUTADOR - CADSATRO, CADASTRO DE VAGA E PROCESSO SELETIVO
+
+   - Simplificar o processo de cadastro para os recrutadores, reduzindo a quantidade de informações exigidas e simplificando o fluxo de preenchimento.
+   - Aprimorar a interface de cadastro de vagas, fornecendo campos mais específicos e personalizáveis para descrever os requisitos e responsabilidades da posição.
+   - Implementar painéis de controle personalizáveis e relatórios de análise de desempenho para acompanhar o progresso do processo seletivo e identificar áreas de melhoria.
+
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/35981bd2-a394-42c2-8111-afedc87b1034)
+
 
 ## Indicadores de Desempenho
 
