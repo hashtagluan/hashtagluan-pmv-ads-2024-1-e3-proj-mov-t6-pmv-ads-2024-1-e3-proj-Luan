@@ -234,7 +234,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF - 012 | Oferecer aos usuários a opção de edição das vagas cadastradas.     | Média      |
 | RF - 013 | Possibilitar aos usuários verificar os processos em andamento.      | Média      |
 | RF - 014 | Permitir que os recrutadores gerem relatórios de desempenho do processo seletivo. | Baixa      |
-| RF - 015 | Implementar um sistema de feedback para candidatos e recrutadores. | Baixa      |
+
 
 
 ### Requisitos não Funcionais
