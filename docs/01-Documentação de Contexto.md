@@ -1,46 +1,33 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O cenário atual de desenvolvimento de software, a demanda por talentos em tecnologia está em constante crescimento, gerando um aumento significativo no volume de processos de recrutamento e seleção de desenvolvedores. No entanto, os métodos tradicionais de recrutamento muitas vezes são morosos, burocráticos e pouco eficientes, resultando em desperdício de tempo e recursos para empresas e candidatos.
+
+Além disso, o Recrutadev surge como uma solução para mitigar a lacuna entre a demanda crescente por profissionais de tecnologia e a escassez de recursos disponíveis nos métodos tradicionais de recrutamento. Ao unir tecnologia avançada com a necessidade premente do mercado, o projeto visa não apenas otimizar os processos de seleção, mas também oferecer uma abordagem mais inclusiva e eficaz para conectar talentos às oportunidades de emprego, impulsionando assim o crescimento e a inovação no setor de desenvolvimento de software.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O processo de recrutamento e seleção de desenvolvedores é frequentemente marcado por desafios como a triagem manual de um grande número de currículos, a dificuldade em encontrar candidatos qualificados e a falta de transparência no acompanhamento do status das candidaturas. Esses obstáculos contribuem para a lentidão do processo e aumentam o risco de perder talentos para a concorrência.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O Recrutadev visa resolver esses desafios, oferecendo uma plataforma móvel intuitiva e eficiente que simplifica todo o ciclo de recrutamento e seleção de desenvolvedores. Os principais objetivos do projeto incluem automatizar a triagem de currículos, facilitar a comunicação entre recrutadores e candidatos, agilizar o agendamento de entrevistas e proporcionar uma experiência transparente e centrada nas habilidades dos candidatos.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivo Geral:
+
+Desenvolver e implementar o Recrutadev, uma aplicação móvel inovadora, para simplificar e agilizar o processo de recrutamento e seleção de desenvolvedores, proporcionando uma experiência eficiente tanto para empresas quanto para candidatos.
+
+Objetivos Específicos:
+
+* Automatizar a triagem de currículo e análise de habilidades e experiências, reduzindo significativamente o tempo gasto pelos recrutadores na seleção inicial de candidatos.
+* Facilitar a comunicação e a disponibilização de vagas disponíveis em projetos e empresas.
+* Criar um ambiente favorável para disponibilizar o currículo de profissionais no mercado. 
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A justificativa para o desenvolvimento do Recrutadev reside na necessidade urgente de agilidade nos processos de contratação de desenvolvedores. Com a crescente competição por talentos em tecnologia, as empresas precisam adotar soluções inovadoras para atrair, avaliar e contratar os melhores profissionais de forma rápida e eficaz. O Recrutadev surge como uma resposta a essa demanda, oferecendo uma ferramenta moderna e inteligente que otimiza todo o fluxo de recrutamento, desde a publicação de vagas até a seleção final dos candidatos.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+DO público-alvo do Recrutadev inclui empresas de todos os portes que buscam contratar desenvolvedores, bem como desenvolvedores em busca de oportunidades de emprego na área de tecnologia. A plataforma atende desde startups em crescimento até grandes corporações, proporcionando uma solução flexível e escalável para as necessidades de recrutamento de cada organização.
