@@ -1,12 +1,30 @@
 # Template Padrão da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+
+##Texto Explicativo do Template Padrão:
+
+“Bem-vindo ao Recrutadev, o seu destino final para oportunidades de carreira em desenvolvimento. Nossa plataforma intuitiva não apenas destaca suas habilidades técnicas, mas também ajuda a mostrar seu potencial inexplorado aos empregadores. O design preto e laranja é meticulosamente escolhido para oferecer uma experiência de usuário excepcional enquanto você navega pelas várias listagens de empregos. Cada detalhe, desde a tipografia até o logo, é projetado pensando em você – o desenvolvedor aspirante pronto para dar o próximo passo na carreira.”
+
+## Detalhes da Identidade Visual
+Cores:
+- Preto (#000000) para textos e ícones.
+- Laranja (#FFA500) como cor de destaque, transmitindo energia e profissionalismo.
+
+Tipografia:
+- Principal: Roboto, por sua legibilidade e aparência moderna.
+- Secundária: Arial, para conteúdo adicional ou notas.
+
+## Logo
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/e5601e47-0dd4-475a-8b1a-072c831eea2b)
+
+Uma lâmpada estilizada com ondas de sinal representando inovação e conectividade.
+
+
+## Aplicação
+
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/3e920245-406f-4a9a-9d9c-55d114357fee)
