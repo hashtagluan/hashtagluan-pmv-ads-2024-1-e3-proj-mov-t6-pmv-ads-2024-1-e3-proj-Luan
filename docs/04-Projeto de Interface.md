@@ -8,7 +8,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/27c0689e-0640-42a0-8ecf-a7d3d6501597)
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/de6e1630-f7e5-4734-bc77-fcefb52a834c)
+
 
 
 ## Wireframes
