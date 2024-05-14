@@ -1,33 +1,51 @@
 # Introdução
 
-O cenário atual de desenvolvimento de software, a demanda por talentos em tecnologia está em constante crescimento, gerando um aumento significativo no volume de processos de recrutamento e seleção de desenvolvedores. No entanto, os métodos tradicionais de recrutamento muitas vezes são morosos, burocráticos e pouco eficientes, resultando em desperdício de tempo e recursos para empresas e candidatos.
+Este projeto é uma iniciativa voltada para a otimização das operações financeiras de estabelecimentos comerciais que utilizam a máquina de cartão SIPAG do Sicoob. Com a crescente demanda por soluções ágeis e eficientes no setor de adquirência, reconhecemos a necessidade de desenvolver uma ferramenta que simplifique o acompanhamento e registro das transações realizadas por meio dessas máquinas. O "Venda Fácil" surge como resposta a essa demanda, oferecendo uma interface intuitiva e funcionalidades abrangentes para facilitar a correta simulação dos valores reais cobrados nas transações de cartão de crédito.
 
-Além disso, o Recrutadev surge como uma solução para mitigar a lacuna entre a demanda crescente por profissionais de tecnologia e a escassez de recursos disponíveis nos métodos tradicionais de recrutamento. Ao unir tecnologia avançada com a necessidade premente do mercado, o projeto visa não apenas otimizar os processos de seleção, mas também oferecer uma abordagem mais inclusiva e eficaz para conectar talentos às oportunidades de emprego, impulsionando assim o crescimento e a inovação no setor de desenvolvimento de software.
+Este projeto tem como objetivo principal oferecer uma ferramenta intuitiva e eficaz para simular transações realizadas por meio da máquina de cartão SIPAG do Sicoob. O aplicativo será desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da PUC Minas, visando fornecer aos alunos uma experiência prática na criação de aplicativos móveis.
 
+A aplicação será utilizada em um contexto onde os estabelecimentos comerciais dependem fortemente das transações realizadas por meio de máquinas de cartão de crédito para processar pagamentos de seus clientes. Esses estabelecimentos operam em um mercado dinâmico e competitivo, onde a eficiência na gestão financeira pode fazer a diferença entre o sucesso e o fracasso do negócio.
 
 ## Problema
-O processo de recrutamento e seleção de desenvolvedores é frequentemente marcado por desafios como a triagem manual de um grande número de currículos, a dificuldade em encontrar candidatos qualificados e a falta de transparência no acompanhamento do status das candidaturas. Esses obstáculos contribuem para a lentidão do processo e aumentam o risco de perder talentos para a concorrência.
+
+No cenário atual das operações comerciais, especialmente para pequenas e médias empresas, a gestão financeira se tornou uma tarefa crucial para garantir a sustentabilidade e o crescimento do negócio. Um dos desafios enfrentados por muitos estabelecimentos comerciais que operam com máquinas de cartão de crédito é a dificuldade em compreender e calcular com precisão as taxas e tarifas associadas às transações realizadas.
+
+O mercado de adquirência, embora fundamental para facilitar as transações com cartão, muitas vezes não é claro em relação às cobranças realizadas nas vendas. As taxas podem variar de acordo com uma série de fatores, incluindo o tipo de cartão utilizado, o volume de vendas mensal e as condições do contrato com a operadora da máquina de cartão.
+
+Além disso, o cálculo das taxas de desconto, tarifas de intercâmbio e outros encargos associados às transações de cartão pode ser complexo e confuso para muitos proprietários de negócios, especialmente aqueles com pouca experiência em finanças.
+
 
 
 ## Objetivos
 
-O Recrutadev visa resolver esses desafios, oferecendo uma plataforma móvel intuitiva e eficiente que simplifica todo o ciclo de recrutamento e seleção de desenvolvedores. Os principais objetivos do projeto incluem automatizar a triagem de currículos, facilitar a comunicação entre recrutadores e candidatos, agilizar o agendamento de entrevistas e proporcionar uma experiência transparente e centrada nas habilidades dos candidatos.
- 
-Objetivo Geral:
+O objetivo geral deste trabalho é desenvolver um software de simulação de vendas que ajude os estabelecimentos comerciais a entenderem melhor as taxas e tarifas associadas às transações de cartão, proporcionando maior clareza e controle sobre os custos envolvidos.
 
-Desenvolver e implementar o Recrutadev, uma aplicação móvel inovadora, para simplificar e agilizar o processo de recrutamento e seleção de desenvolvedores, proporcionando uma experiência eficiente tanto para empresas quanto para candidatos.
+**Objetivos Específicos**
 
-Objetivos Específicos:
+1. **Desenvolver uma interface intuitiva e amigável:** Concentrar esforços na criação de uma interface de usuário simples e fácil de usar, permitindo que até mesmo proprietários de pequenos negócios, com pouca experiência em finanças, possam utilizar o aplicativo com facilidade.
 
-* Automatizar a triagem de currículo e análise de habilidades e experiências, reduzindo significativamente o tempo gasto pelos recrutadores na seleção inicial de candidatos.
-* Facilitar a comunicação e a disponibilização de vagas disponíveis em projetos e empresas.
-* Criar um ambiente favorável para disponibilizar o currículo de profissionais no mercado. 
+2. **Automatizar o cálculo das taxas e tarifas:** Aprofundar na implementação de algoritmos de cálculo precisos que levem em consideração diferentes variáveis, como tipo de cartão, volume de vendas e condições contratuais, proporcionando aos usuários uma estimativa precisa dos custos das transações de cartão.
 
 
 ## Justificativa
 
-A justificativa para o desenvolvimento do Recrutadev reside na necessidade urgente de agilidade nos processos de contratação de desenvolvedores. Com a crescente competição por talentos em tecnologia, as empresas precisam adotar soluções inovadoras para atrair, avaliar e contratar os melhores profissionais de forma rápida e eficaz. O Recrutadev surge como uma resposta a essa demanda, oferecendo uma ferramenta moderna e inteligente que otimiza todo o fluxo de recrutamento, desde a publicação de vagas até a seleção final dos candidatos.
+
+A escolha de desenvolver um software de simulação de vendas para lidar com as complexidades do mercado de adquirência e proporcionar maior clareza aos proprietários de estabelecimentos comerciais é motivada por diversas razões fundamentais:
+
+Necessidade de Transparência Financeira: Muitos proprietários de negócios enfrentam dificuldades para compreender as taxas e tarifas associadas às transações de cartão, o que pode levar a erros de cálculo e decisões financeiras equivocadas. Um software que simplifique esse processo e forneça informações claras e precisas é essencial para garantir uma gestão financeira eficaz.
+
+Empoderamento dos Empreendedores: Ao oferecer uma ferramenta que permite aos proprietários de negócios entenderem melhor os custos envolvidos nas transações de cartão, estamos capacitando-os a tomar decisões mais informadas e estratégicas em relação às suas operações financeiras. Isso pode contribuir significativamente para a saúde financeira e o crescimento dos negócios.
+
+Impacto Educacional: Além de atender às necessidades do mercado, o desenvolvimento deste software oferece uma oportunidade valiosa para a prática investigativa e educacional dos alunos. Aprofundando-se em aspectos técnicos como interface de usuário intuitiva e algoritmos de cálculo precisos, os alunos ganharão habilidades valiosas que podem ser aplicadas em futuros projetos e carreiras.
 
 ## Público-Alvo
 
-DO público-alvo do Recrutadev inclui empresas de todos os portes que buscam contratar desenvolvedores, bem como desenvolvedores em busca de oportunidades de emprego na área de tecnologia. A plataforma atende desde startups em crescimento até grandes corporações, proporcionando uma solução flexível e escalável para as necessidades de recrutamento de cada organização.
+**Público-Alvo**
+
+O público-alvo do nosso software de simulação de vendas, "Venda Fácil", é composto por uma variedade de perfis dentro do contexto de proprietários e gestores de pequenas e médias empresas que lidam com transações de cartão de crédito. Abaixo, descrevemos alguns dos principais segmentos desse público-alvo:
+
+*Proprietários de Pequenos Negócios:*
+   - Conhecimentos prévios: Variedade, desde básicos em finanças até avançados em gestão empresarial.
+   - Relação com a tecnologia: Geralmente confortáveis com o uso básico de dispositivos móveis e aplicativos, mas podem não ter experiência em softwares específicos de gestão financeira.
+   - Relações hierárquicas: São os principais tomadores de decisão em relação às operações financeiras do negócio e podem delegar tarefas administrativas a funcionários.
+
