@@ -32,4 +32,4 @@ Tipografia:
 
 ## Aplicação
 
-![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/3e920245-406f-4a9a-9d9c-55d114357fee)
+
