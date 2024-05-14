@@ -16,8 +16,17 @@ A comunicação direta é realizada por meio de whatsapp e do uso da ferramenta 
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito e são apresentados em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
+
+| Ambiente          | Plataforma        | Link de Acesso                            |
+|-------------------|-------------------|-------------------------------------------|
+| Desenvolvimento   | GitHub            | [Link](https://github.com/)               |
+| Colaboração       | Microsoft Teams   | [Link](https://www.microsoft.com/teams)  |
+| Documentação      | Google Docs       | [Link](https://docs.google.com/)         |
+| Design UX/UI      | Figma             | [Link](https://www.figma.com/)           |
+| Gerenciamento     | Trello            | [Link](https://trello.com/)              |
+| Comunicação       | Slack             | [Link](https://slack.com/)               |
+
 
 ## Controle de Versão
 
@@ -40,15 +49,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
