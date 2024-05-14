@@ -1,4 +1,4 @@
-# RECRUTAMENTODEV
+# VENDAFACIL
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
@@ -6,7 +6,7 @@
 
 `1º semestre de 2024`
 
-O RecrutamentoDev é um aplicativo móvel projetado para simplificar o processo de recrutamento e seleção de desenvolvedores. Com uma interface intuitiva e funcionalidades inteligentes, o Recrutadev permite que empresas publiquem vagas,e tornem seus processos de contratação de forma eficiente. Além disso, os desenvolvedores em busca de oportunidades podem criar perfis detalhados, receber recomendações de vagas compatíveis e acompanhar o status de suas candidaturas, tudo em um único lugar. Com o Recrutadev, tornamos o processo de recrutamento mais ágil, transparente e centrado nas habilidades dos candidatos.
+Este projeto é uma iniciativa voltada para a otimização das operações financeiras de estabelecimentos comerciais que utilizam a máquina de cartão SIPAG do Sicoob. Com a crescente demanda por soluções ágeis e eficientes no setor de adquirência, reconhecemos a necessidade de desenvolver uma ferramenta que simplifique o acompanhamento e registro das transações realizadas por meio dessas máquinas. O "Venda Fácil" surge como resposta a essa demanda, oferecendo uma interface intuitiva e funcionalidades abrangentes para facilitar a gestão financeira dos nossos usuários.
 
 ## Integrantes
 
