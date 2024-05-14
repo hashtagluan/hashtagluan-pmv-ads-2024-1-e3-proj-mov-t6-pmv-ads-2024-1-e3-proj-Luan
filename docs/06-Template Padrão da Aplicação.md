@@ -1,13 +1,21 @@
 # Template Padrão da Aplicação
 
 
+**Template Padrão da Aplicação**
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O template padrão da nossa aplicação segue um design moderno e intuitivo, focado na facilidade de uso e na experiência do usuário. O formato geral da aplicação é limpo e organizado, com elementos bem definidos para garantir uma navegação fluida e eficiente.
 
+**Formato:**
+- Utilizamos um layout responsivo para garantir uma experiência consistente em diferentes dispositivos, desde desktops até smartphones.
+- A estrutura da página é dividida em seções distintas, cada uma com sua função específica e fácil de identificar.
+- As informações são apresentadas de forma clara e concisa, utilizando hierarquia visual para destacar elementos importantes.
 
-##Texto Explicativo do Template Padrão:
+**Cores:**
+- Optamos por uma paleta de cores moderna e vibrante, com destaque para tons de azul e verde que transmitem confiança e vitalidade.
+- Cores neutras, como branco e cinza, são utilizadas para fundos e elementos secundários, proporcionando equilíbrio visual.
+- Contrastes adequados são aplicados para garantir uma boa legibilidade e destacar elementos importantes, como botões de ação e informações críticas.
 
-“Bem-vindo ao Recrutadev, o seu destino final para oportunidades de carreira em desenvolvimento. Nossa plataforma intuitiva não apenas destaca suas habilidades técnicas, mas também ajuda a mostrar seu potencial inexplorado aos empregadores. O design preto e laranja é meticulosamente escolhido para oferecer uma experiência de usuário excepcional enquanto você navega pelas várias listagens de empregos. Cada detalhe, desde a tipografia até o logo, é projetado pensando em você – o desenvolvedor aspirante pronto para dar o próximo passo na carreira.”
+Em resumo, o template padrão da nossa aplicação combina um design limpo e organizado com uma paleta de cores moderna e vibrante, visando proporcionar uma experiência agradável e intuitiva para todos os usuários.
 
 ## Detalhes da Identidade Visual
 Cores:
@@ -20,9 +28,6 @@ Tipografia:
 
 ## Logo
 
-![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/e5601e47-0dd4-475a-8b1a-072c831eea2b)
-
-Uma lâmpada estilizada com ondas de sinal representando inovação e conectividade.
 
 
 ## Aplicação
