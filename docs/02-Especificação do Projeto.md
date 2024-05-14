@@ -58,10 +58,9 @@ A proposta é oferecer uma solução inovadora e intuitiva para simplificar o pr
 
 **Modelo do Processo 1 (BPMN):**
 
-![Modelo do Processo 1](https://i.ibb.co/r2Z9SDY/processo1-bpmn.png)
 
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/2d108140-81f4-44f0-bbd0-bba121ecfe59)
 
-![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/c0fb3609-5621-455c-ad5e-d4e8bd580739)
 
 
 
@@ -76,9 +75,7 @@ A proposta é oferecer uma solução inovadora e intuitiva para simplificar o pr
 
 **Modelo do Processo 2 (BPMN):**
 
-![Modelo do Processo 2](https://i.ibb.co/4Nj6c3Z/processo2-bpmn.png)
-
-![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/35981bd2-a394-42c2-8111-afedc87b1034)
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/84817034-6813-4673-99ef-0ab9dcf140a7)
 
 
 ## Indicadores de Desempenho
