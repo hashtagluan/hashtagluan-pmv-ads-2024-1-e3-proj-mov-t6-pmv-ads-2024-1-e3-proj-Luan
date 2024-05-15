@@ -20,7 +20,7 @@ Em resumo, o template padrão da nossa aplicação combina um design limpo e org
 ## Detalhes da Identidade Visual
 Cores:
 - Preto (#000000) para textos e ícones.
-- Laranja (#FFA500) como cor de destaque, transmitindo energia e profissionalismo.
+- Verde (#FFA500) como cor de destaque, transmitindo energia e profissionalismo.
 
 Tipografia:
 - Principal: Roboto, por sua legibilidade e aparência moderna.
@@ -28,6 +28,7 @@ Tipografia:
 
 ## Logo
 
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/0d087ff3-c03d-4748-a118-d1951fabf890)
 
 
 ## Aplicação
