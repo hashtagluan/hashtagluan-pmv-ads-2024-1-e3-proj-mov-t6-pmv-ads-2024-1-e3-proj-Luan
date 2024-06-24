@@ -1,15 +1,60 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+rogramação de Funcionalidades
+A implementação do Venda Fácil é organizada para atender aos requisitos funcionais e não funcionais definidos durante a fase de planejamento. Cada funcionalidade está associada a um requisito específico e é detalhada em termos de código-fonte, estrutura de dados e instruções para acesso e verificação no ambiente de hospedagem.
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Abaixo, descrevemos a implementação de cada funcionalidade com base nos requisitos funcionais, incluindo o código-fonte relacionado, a estrutura de dados utilizada, e as instruções para testar e verificar sua implementação.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+1. Registro de Usuário
+ID: RF01
+Descrição do Requisito: O sistema deve permitir que novos usuários se registrem fornecendo nome, e-mail, senha e telefone.
+Prioridade: Alta
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+Instruções para Acesso e Verificação:
+
+Acesse o aplicativo Venda Fácil em seu dispositivo móvel.
+Navegue até a tela de registro de usuário.
+Insira um nome, e-mail, senha e telefone nos campos apropriados.
+Clique no botão "Registrar".
+Verifique se a mensagem de sucesso é exibida e confirme que o novo usuário foi adicionado ao banco de dados consultando a tabela Usuario no PostgreSQL.
+
+2. Login de Usuário
+ID: RF02
+Descrição do Requisito: O sistema deve permitir que usuários existentes façam login fornecendo e-mail e senha.
+Prioridade: Alta
+
+Artefatos Criados:
+
+Código Fonte:
+
+Front-End (React Native)
+
+Instruções para Acesso e Verificação:
+
+Acesse o aplicativo Venda Fácil.
+Navegue até a tela de login.
+Insira o e-mail e a senha de um usuário registrado.
+Clique no botão "Login".
+Verifique se a mensagem de sucesso é exibida e que o usuário é redirecionado para a tela principal do aplicativo.
+
+3. Simulação de Venda
+ID: RF07
+Descrição do Requisito: O sistema deve permitir que os usuários simulem uma venda informando o valor, o tipo de pagamento (crédito ou débito) e exibir o valor líquido após as taxas.
+Prioridade: Alta
+
+Artefatos Criados:
+
+Código Fonte:
+
+Front-End (React Native)
+
+Instruções para Acesso e Verificação:
+
+Acesse o aplicativo Venda Fácil.
+Navegue até a tela de simulação de venda.
+Insira o valor da venda e selecione o tipo de pagamento.
+Clique no botão "Simular Venda".
+Verifique se o valor líquido após as taxas é exibido corretamente na tela.
+
+
